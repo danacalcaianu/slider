@@ -1,0 +1,22 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/CalcaianuDaniela/slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/CalcaianuDaniela/slider#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.8.0",
+    "eslint-config-fortech": "^2.0.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
